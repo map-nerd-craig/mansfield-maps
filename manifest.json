@@ -7,8 +7,8 @@
     {
       "id": "https://map-nerd-craig.github.io/mansfield-maps/canvas/1",
       "type": "Canvas",
-      "width": 8000,
-      "height": 6000,
+      "width": 4620,
+      "height": 3204,
       "items": [
         {
           "id": "https://map-nerd-craig.github.io/mansfield-maps/annotation-page/1",
@@ -20,11 +20,11 @@
               "motivation": "painting",
               "target": "https://map-nerd-craig.github.io/mansfield-maps/canvas/1",
               "body": {
-                "id": "https://map-nerd-craig.github.io/mansfield-maps/your-map.tiff",
+                "id": "https://map-nerd-craig.github.io/mansfield-maps/1824%20Mansfield%20Map.tiff",
                 "type": "Image",
                 "format": "image/tiff",
-                "width": 8000,
-                "height": 6000
+                "width": 4620,
+                "height": 3204,
               }
             }
           ]
