@@ -1,0 +1,35 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://map-nerd-craig.github.io/mansfield-maps/manifest.json",
+  "type": "Manifest",
+  "label": { "en": ["Mansfield Map (demo)"] },
+  "items": [
+    {
+      "id": "https://map-nerd-craig.github.io/mansfield-maps/canvas/1",
+      "type": "Canvas",
+      "width": 4620px,
+      "height": 3204px,
+      "items": [
+        {
+          "id": "https://map-nerd-craig.github.io/mansfield-maps/annotation-page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://map-nerd-craig.github.io/mansfield-maps/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://map-nerd-craig.github.io/mansfield-maps/canvas/1",
+              "body": {
+                "id": "https://map-nerd-craig.github.io/mansfield-maps/1824%20Mansfield%20Map.tiff",
+                "type": "Image",
+                "format": "image/tiff",
+                "width": 4620px,
+                "height": 204px
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
