@@ -24,7 +24,7 @@
                 "type": "Image",
                 "format": "image/tiff",
                 "width": 4620,
-                "height": 3204,
+                "height": 3204
               }
             }
           ]
@@ -33,3 +33,4 @@
     }
   ]
 }
+
